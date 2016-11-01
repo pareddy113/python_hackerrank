@@ -1,2 +1,2 @@
 # python_hackerrank
-Hackerraank problem solved in python
+Hackerraank problems solved in python
